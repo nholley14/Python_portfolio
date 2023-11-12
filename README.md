@@ -1,6 +1,8 @@
 # Python_portfolio
 This is the portfolio of python code that I learned during Bisc 450c
 
+My name is Nathan Holley
+
 ## Using Jupyter Notebooks (1 and 2)
 
 ```python
